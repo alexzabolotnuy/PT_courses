@@ -1,1 +1,1 @@
-# Playtika_courses
+# PT_courses
